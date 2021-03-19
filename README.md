@@ -6,4 +6,4 @@ Dark Code.
 ## Tecnologias Utilizadas:
 HTML5 e CSS3.
 
-## Link para o acesso do projeto: 
+## Link para o acesso do projeto: https://projeto-web-002.netlify.app/
